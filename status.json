@@ -1,6 +1,7 @@
 {
-  "minVersion": "1.0.0",
+  "minVersion": "1.1.0",
   "forceUpdate": true,
   "blocked": false,
+  "expiresAt": "2026-01-31",
   "message": "Atualização obrigatória. Entre em contato comigo."
 }
